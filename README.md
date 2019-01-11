@@ -4,15 +4,11 @@
 <br>
 Съёмка: **Терентьев С.В.**
 
-Программное обеспечение для Вектор-06Ц - программа **CINEMA** (см. каталог **Vector-06C**).
+Программное обеспечение для **Вектор-06Ц** - программа **CINEMA** (см. каталог **Vector-06C**).
 
-Рыков Виталик.
+Рыков Виталик. Третьяков Андрей.
 <br>
-![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Rykov%20V.gif)
-
-Третьяков Андрей.
-<br>
-![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Tretyakov%20A.gif)
+![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Rykov%20V.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Tretyakov%20A.gif)
 
 Демидов Станислав.
 <br>
