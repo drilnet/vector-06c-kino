@@ -18,7 +18,7 @@
 И ещё одно видео со мной: [Демидов Станислав (видео 2)](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Demidov%20S.%202.gif)
 
 Для конвертации видео с Вектор-06Ц в gif-анимацию использовались написаные скрипты на [Perl](http://www.perl.org).
-<br>
+
 Скрипты:
 <br>
 * ConvertKino839.Demidov.S.Disk.1.pl
