@@ -1,12 +1,12 @@
 # hobby
 
-Снято в **90**-х годах **20** века! Использовался 8-ми битный компьтер **Вектор-06Ц** с оцифровщиком изображения.
+Снято в **90**-х годах **20** века! Использовался **8**-ми битный компьтер **Вектор-06Ц** с оцифровщиком изображения.
 <br>
 Съёмка: **Терентьев С.В.**
 
 Программное обеспечение для **Вектор-06Ц** - программа **CINEMA** (см. каталог **Vector-06C**).
 
-Слева направо: Рыков Виталик. Третьяков Андрей. Демидов Станислав.
+Слева направо: **Рыков Виталик**. **Третьяков Андрей**. **Демидов Станислав**.
 <br>
 ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Rykov%20V.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Tretyakov%20A.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Demidov%20S.%201.gif)
 
@@ -19,6 +19,6 @@
 * ConvertKino839.Rykov.V.pl
 * ConvertKino839.Tretyakov.A.pl
 
-Внимание!
+**Внимание!**
 <br>
-Конвертация только в Gray цветах!
+Конвертация только в **Gray** цветах!
