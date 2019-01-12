@@ -1,4 +1,4 @@
-# hobby
+# hobby. Ожившая анимация. Вектор-06Ц.
 Лицензия: **Free**.
 
 ![](https://github.com/drilnet/vector-06c-kino/blob/master/UA.png)
