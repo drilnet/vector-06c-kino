@@ -72,4 +72,4 @@
 
 Все скрипты (*.**pl**) в кодировке **UTF-8**.
 
-Дополнительная информация: [Wiki](https://github.com/drilnet/vector-06c-kino/wiki)
+Дополнительная информация (размер гибкого диска, размер кадра и т.д.): [Wiki](https://github.com/drilnet/vector-06c-kino/wiki)
