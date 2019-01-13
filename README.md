@@ -76,10 +76,10 @@
 
 <hr>
 
-**Ещё репозитории автора:**
+##### **Ещё репозитории автора:**
 
-**Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
+##### **Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
 <br>
-**Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
+##### **Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
 <br>
-**Репозиторий:** [Скрипт который подписывает цифровые фотографии.]()
+##### **Репозиторий:** [Скрипт который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
