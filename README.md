@@ -73,3 +73,13 @@
 Все скрипты (*.**pl**) в кодировке **UTF-8**.
 
 Дополнительная информация (размер гибкого диска, размер кадра и т.д.): [Wiki](https://github.com/drilnet/vector-06c-kino/wiki)
+
+<hr>
+
+**Ещё репозитории автора:**
+
+**Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
+<br>
+**Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
+<br>
+**Репозиторий:** [Скрипт который подписывает цифровые фотографии.]()
