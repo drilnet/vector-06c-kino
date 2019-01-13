@@ -20,14 +20,7 @@
 
 Фильм на **Вектор-06Ц** занимал одну дискету (**один гибкий магнитный диск**)!
 
-Для конвертации видео с **Вектор-06Ц** в **gif**-анимацию использовались написаные скрипты на [Perl](http://www.perl.org).
-
-Скрипты:
-<br>
-* ConvertKino839.Demidov.S.Disk.1.pl
-* ConvertKino839.Demidov.S.Disk.2.pl
-* ConvertKino839.Rykov.V.pl
-* ConvertKino839.Tretyakov.A.pl
+Для конвертации видео с **Вектор-06Ц** в **gif**-анимацию использовались написаные скрипты на [Perl](http://www.perl.org) (см. ниже).
 
 **Внимание!**
 <br>
@@ -43,10 +36,40 @@
 <br>
 **Украина**. **Харьков**.
 
-Более подробно смотри: [Wiki](https://github.com/drilnet/vector-06c-kino/wiki)
-
 <hr>
 
 Хотите собрать компьютер **Вектор-06Ц**?
 <br>
 Посмотрите вот этот проект: [Вектор-06Ц в ПЛИС](https://github.com/svofski/vector06cc)
+
+<hr>
+
+Что содержит репозиторий:
+
+    Каталог: Disk Images 839            - Образы дисков Вектор-06Ц с фильмами (4-ре фильма).
+    Каталог: Frames - Demidov S. Disk 1 - Готовые кадры.
+    Каталог: Frames - Demidov S. Disk 2 - Готовые кадры.
+    Каталог: Frames - Rykov V           - Готовые кадры.
+    Каталог: Frames - Tretyakov A       - Готовые кадры.
+    Каталог: GIF Animation              - Здесь готовая анимация.
+    Каталог: Vector-06C                 - CINEMA с исходниками.
+
+    160x128_Gray.bmp     - Файл используется для получения заголовка.
+    160x128_Gray.bmp.hex - Заголовок bmp файла в Hex (в шестнадцатеричной системе счисления).
+
+    Скрипты которые конвертируют фильмы:
+
+       ConvertKino839.Demidov.S.Disk.1.pl
+       ConvertKino839.Demidov.S.Disk.2.pl
+       ConvertKino839.Rykov.V.pl
+       ConvertKino839.Tretyakov.A.pl
+
+    File160x128Graybmp2Hex.pl = Этот скрипт возвращает заголовок (в Hex) из bmp файла (из файла: 160x128_Gray.bmp).
+    MergedImages(Gray).pl     - Этот скрипт для объединения двух изображений.
+
+    Readme.RUS.1251.txt - Краткое описание в кодировке cp1251 (кодировка Windows).
+    Readme.RUS.UTF8.txt - Краткое описание в кодировке UTF-8.
+
+Все скрипты (*.**pl**) в кодировке **UTF-8**.
+
+Дополнительная информация: [Wiki](https://github.com/drilnet/vector-06c-kino/wiki)
