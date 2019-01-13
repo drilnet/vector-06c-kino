@@ -47,10 +47,10 @@
 Что содержит репозиторий:
 
     Каталог: Disk Images 839            - Образы дисков Вектор-06Ц с фильмами (4-ре фильма).
-    Каталог: Frames - Demidov S. Disk 1 - Готовые кадры.
-    Каталог: Frames - Demidov S. Disk 2 - Готовые кадры.
-    Каталог: Frames - Rykov V           - Готовые кадры.
-    Каталог: Frames - Tretyakov A       - Готовые кадры.
+    Каталог: Frames - Demidov S. Disk 1 - Готовые кадры в формате bmp и tga.
+    Каталог: Frames - Demidov S. Disk 2 - -/-
+    Каталог: Frames - Rykov V           - -/-
+    Каталог: Frames - Tretyakov A       - -/-
     Каталог: GIF Animation              - Здесь 4-ре фильма в формате gif.
     Каталог: Vector-06C                 - CINEMA с исходниками.
 
