@@ -65,7 +65,7 @@
        ConvertKino839.Tretyakov.A.pl
 
     File160x128Graybmp2Hex.pl - Этот скрипт возвращает заголовок (в Hex) из bmp файла (из файла: 160x128_Gray.bmp).
-    MergedImages(Gray).pl     - Этот скрипт для объединения двух изображений.
+    MergedImages(Gray).pl     - Этот скрипт объединяет изображения.
 
     Readme.RUS.1251.txt - Краткое описание в кодировке cp1251 (кодировка Windows).
     Readme.RUS.UTF8.txt - Краткое описание в кодировке UTF-8.
