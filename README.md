@@ -76,6 +76,14 @@
 
 <hr>
 
+**Дополнительные ссылки:**
+
+* Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
+* Картотека ПО для Вектор-06Ц:[http://sensi.org/scalar](http://sensi.org/scalar)
+* Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
+
+<hr>
+
 **Ещё репозитории автора:**
 
 **Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
@@ -83,3 +91,8 @@
 **Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
 <br>
 **Репозиторий:** [Скрипт который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
+
+<hr>
+
+**Полезные ссылки:**
+##### [Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)
