@@ -14,7 +14,7 @@
 
 Слева направо: **Рыков Виталик**. **Третьяков Андрей**. **Демидов Станислав**.
 
-![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Rykov%20V.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Tretyakov%20A.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Demidov%20S.%201.gif)
+![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Gray.%20Rykov%20V.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Gray.%20Tretyakov%20A.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Gray.%20Demidov%20S.%201.gif)
 
 И ещё одно видео со мной: [Демидов Станислав (видео 2)](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Kino.%20Gray.%20Demidov%20S.%202.gif)
 
@@ -65,7 +65,7 @@
        ConvertKino839.Tretyakov.A.pl
 
     File160x128Graybmp2Hex.pl - Этот скрипт возвращает заголовок (в Hex) из bmp файла (из файла: 160x128_Gray.bmp).
-    MergedImages(Gray).pl     - Этот скрипт объединяет изображения.
+    MergedImages.pl           - Этот скрипт объединяет изображения.
 
     Readme.RUS.1251.txt - Краткое описание в кодировке cp1251 (кодировка Windows).
     Readme.RUS.UTF8.txt - Краткое описание в кодировке UTF-8.
