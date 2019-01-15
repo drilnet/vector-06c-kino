@@ -59,10 +59,10 @@
 
     Скрипты которые конвертируют фильмы Вектор-06Ц в кадры:
 
-       ConvertKino839.Demidov.S.Disk.1.pl
-       ConvertKino839.Demidov.S.Disk.2.pl
-       ConvertKino839.Rykov.V.pl
-       ConvertKino839.Tretyakov.A.pl
+       ConvertFilm839.Demidov.S.Disk.1.pl
+       ConvertFilm839.Demidov.S.Disk.2.pl
+       ConvertFilm839.Rykov.V.pl
+       ConvertFilm839.Tretyakov.A.pl
 
     File160x128Graybmp2Hex.pl - Этот скрипт возвращает заголовок (в Hex) из bmp файла (из файла: 160x128_Gray.bmp).
     MergedImages.pl           - Этот скрипт объединяет изображения.
