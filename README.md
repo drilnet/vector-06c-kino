@@ -81,7 +81,7 @@
 **Дополнительные ссылки:**
 
 * Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
-* Картотека ПО для Вектор-06Ц:[http://sensi.org/scalar](http://sensi.org/scalar)
+* Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
 
 <hr>
