@@ -86,6 +86,7 @@
 * Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
 * Различные сообщества (ZX Spectrum, Вектор-06Ц, Специалист и др.) живут здесь: [https://zx-pk.ru/](https://zx-pk.ru/).
+* CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
 
 <hr>
 
