@@ -87,6 +87,7 @@
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
 * Различные сообщества (ZX Spectrum, Вектор-06Ц, Специалист и др.) живут здесь: [https://zx-pk.ru/](https://zx-pk.ru/).
 * CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
+* Утилита для работы с образами CP/M дисков: [http://era-cg.su/steinblume/index.php?name=about&lang=ru](http://era-cg.su/steinblume/index.php?name=about&lang=ru)
 
 <hr>
 
