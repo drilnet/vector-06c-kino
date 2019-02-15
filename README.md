@@ -85,9 +85,9 @@
 * Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
 * Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
-* Различные сообщества (ZX Spectrum, Вектор-06Ц, Специалист и др.) живут здесь: [https://zx-pk.ru/](https://zx-pk.ru/).
 * CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
 * Утилита для работы с образами CP/M дисков: [http://era-cg.su/steinblume/index.php?name=about&lang=ru](http://era-cg.su/steinblume/index.php?name=about&lang=ru)
+* Различные сообщества (ZX Spectrum, Вектор-06Ц, Специалист и др.) живут здесь: [https://zx-pk.ru/](https://zx-pk.ru/).
 
 <hr>
 
