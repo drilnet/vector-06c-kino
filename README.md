@@ -88,6 +88,7 @@
 * CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
 * Утилита для работы с образами CP/M дисков: [http://era-cg.su/steinblume/index.php?name=about&lang=ru](http://era-cg.su/steinblume/index.php?name=about&lang=ru)
 * Различные сообщества (ZX Spectrum, Вектор-06Ц, Специалист и др.) живут здесь: [https://zx-pk.ru/](https://zx-pk.ru/).
+* Информация по BDOS OC CP/M: [http://marinovsoft.narod.ru/korvet/bdos_doc.pdf](http://marinovsoft.narod.ru/korvet/bdos_doc.pdf).
 
 <hr>
 
@@ -105,10 +106,6 @@
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP.](https://github.com/drilnet/vector-06c-grf2bmp)
 <br>
 **Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц.](https://github.com/drilnet/vector-06c-color256)
-
-<hr>
-
-**Файловый архив автора:** [https://drilnet.github.io/downloads/](https://drilnet.github.io/downloads/)
 
 <hr>
 
