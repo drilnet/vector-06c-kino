@@ -60,7 +60,7 @@
     Каталог: "Frames - Demidov S. Disk 2" - -/-
     Каталог: "Frames - Rykov V"           - -/-
     Каталог: "Frames - Tretyakov A"       - -/-
-    Каталог: "GIF Animation"              - Здесь 4-ре фильма в формате GIF.
+    Каталог: "GIF Animation"              - Здесь 4-ре "фильма" в формате GIF.
     Каталог: "Vector-06C"                 - CINEMA с исходниками.
 
     Файл: "160x128_Gray.bmp"     - Файл используется для получения заголовка.
