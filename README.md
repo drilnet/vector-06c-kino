@@ -73,7 +73,7 @@
        Файл: "ConvertFilm839.Rykov.V.pl".
        Файл: "ConvertFilm839.Tretyakov.A.pl".
 
-    Файл: "File160x128Graybmp2Hex.pl" - Этот скрипт возвращает заголовок (в HEX) из BMP-файла (из файла: 160x128_Gray.bmp).
+    Файл: "File160x128Graybmp2Hex.pl" - Этот скрипт возвращает заголовок (в HEX) из BMP-файла (из файла: "160x128_Gray.bmp").
     Файл: "MergedImages.pl"           - Этот скрипт объединяет изображение программы Cinema с готовыми кадрами.
 
     Файл: Readme.RUS.1251.txt - Краткое описание в кодировке cp1251 (кодировка Windows).
