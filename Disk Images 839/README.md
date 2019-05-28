@@ -3,7 +3,7 @@
 4-ре фильма!
 Продолжительность каждого - 164 кадра (образы гибких магнитных дисков Вектор-06Ц).
 
-    * Demidov S. Disk 1.839
-    * Demidov S. Disk 2.839
-    * Tretyakov A.839
-    * Rykov V.839
+    * 'Demidov S. Disk 1.839'
+    * 'Demidov S. Disk 2.839'
+    * 'Tretyakov A.839'
+    * 'Rykov V.839'
