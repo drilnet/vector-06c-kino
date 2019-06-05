@@ -3,7 +3,7 @@
 
 <hr>
 
-### Вектор-06Ц. Ожившее кино.
+### Вектор-06Ц. Ожившее кино
 Лицензия: **Free**.
 
 ![](https://github.com/drilnet/vector-06c-kino/blob/master/UA.png)
