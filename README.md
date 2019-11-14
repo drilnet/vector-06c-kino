@@ -18,7 +18,7 @@
 <br>
 Смотрите каталог **Vector-06C**, там есть и исходники (исходники в кодировке **KOI8-R**).
 <br>
-Ещё упоминание о **CINEMA** здесь: [http://sensi.org/scalar/ware/825/](http://sensi.org/scalar/ware/825/)
+Ещё упоминание о **CINEMA** было здесь: [http://sensi.org/scalar/ware/825/](http://sensi.org/scalar/ware/825/)
 
 Слева направо: **Рыков Виталик**. **Третьяков Андрей**. **Демидов Станислав**.
 
