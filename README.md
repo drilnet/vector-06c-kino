@@ -20,7 +20,7 @@
 <br>
 Ещё упоминание о **CINEMA** было здесь: [http://sensi.org/scalar/ware/825/](http://sensi.org/scalar/ware/825/)
 
-Слева направо: **Рыков Виталик**. **Третьяков Андрей**. **Демидов Станислав**.
+Слева направо: **Рыков Виталик**, **Третьяков Андрей**, **Демидов Станислав**.
 
 ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Gray.%20Rykov%20V.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Gray.%20Tretyakov%20A.gif) ![](https://github.com/drilnet/vector-06c-kino/blob/master/GIF%20Animation/Gray.%20Demidov%20S.%201.gif)
 
